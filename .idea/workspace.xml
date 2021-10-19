@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84c20252-b627-4da9-8368-601e83bb6535" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1zJoGCaURr5xZpR2gqLHn0lHNVA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/backgrounds" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\efarming\views\farmer\reports" />
+      <recent name="C:\laragon\www\efarming\views" />
+      <recent name="C:\laragon\www\efarming\views\admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\efarming\assets\images\backgrounds" />
+      <recent name="C:\laragon\www\efarming" />
+      <recent name="C:\laragon\www\efarming\views\seller" />
+      <recent name="C:\laragon\www\efarming\views\farmer" />
+      <recent name="C:\laragon\www\efarming\classes" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84c20252-b627-4da9-8368-601e83bb6535" name="Default Changelist" comment="" />
+      <created>1633875455097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633875455097</updated>
+      <workItem from="1633875460446" duration="1321000" />
+      <workItem from="1633961339424" duration="7743000" />
+      <workItem from="1634037294519" duration="4051000" />
+      <workItem from="1634046675773" duration="22000" />
+      <workItem from="1634273224597" duration="4121000" />
+      <workItem from="1634279753651" duration="25969000" />
+      <workItem from="1634314982566" duration="5563000" />
+      <workItem from="1634357542811" duration="78847000" />
+      <workItem from="1634493224436" duration="4058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="403" y="151" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1634304438824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="403" y="151" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1634304438824" />
+    <state x="484" y="158" key="NewPhpClassDialog" timestamp="1634037820644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="158" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1634037820644" />
+    <state x="499" y="281" key="NewPhpFileDialog" timestamp="1633875494738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="281" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1633875494738" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1634486818252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1634486818252" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1634472514880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1634472514880" />
+  </component>
+</project>
